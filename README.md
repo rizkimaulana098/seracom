@@ -1,0 +1,2 @@
+# seracom
+GitHub Pages
